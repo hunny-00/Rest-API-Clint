@@ -88,4 +88,5 @@ This project is a **Java-based REST API Client** that demonstrates how to consum
 
 This Java REST API client is a powerful example of integrating external data into your applications. From learning how to send GET requests, to parsing real-world JSON responses and displaying structured data — this project is a complete package. Whether you're a student, developer, or someone preparing for Java interviews, this REST API Client will significantly boost your portfolio and skillset.
 
+## 🔸 Output
 
